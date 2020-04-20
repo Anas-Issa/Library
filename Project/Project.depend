@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1513790524 source:d:\wadieës files\Õ«Ã«  «·ﬂ·Ì…\3rd term\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Books.h"
+	"Member.h"
+
+1514040932 d:\wadieës files\Õ«Ã«  «·ﬂ·Ì…\3rd term\project\project\books.h
+
+1513790453 d:\wadieës files\Õ«Ã«  «·ﬂ·Ì…\3rd term\project\project\member.h
+
+1514058796 source:d:\wadieës files\Õ«Ã«  «·ﬂ·Ì…\3rd term\project\project\library system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Books.h"
+	"Member.h"
+	"Borrow.h"
+
+1514034808 d:\wadieës files\Õ«Ã«  «·ﬂ·Ì…\3rd term\project\project\borrow.h
+
+1514059256 source:c:\users\start\desktop\final_final_projects\project\library system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Books.h"
+	"Member.h"
+	"Borrow.h"
+
+1514040934 c:\users\start\desktop\final_final_projects\project\books.h
+
+1513790454 c:\users\start\desktop\final_final_projects\project\member.h
+
+1514034810 c:\users\start\desktop\final_final_projects\project\borrow.h
+
+1514061615 source:c:\users\administrator\desktop\final_final_projects\project\library system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Books.h"
+	"Member.h"
+	"Borrow.h"
+
+1514040934 c:\users\administrator\desktop\final_final_projects\project\books.h
+
+1513790454 c:\users\administrator\desktop\final_final_projects\project\member.h
+
+1514034810 c:\users\administrator\desktop\final_final_projects\project\borrow.h
+
+1514061615 source:c:\users\administrator\desktop\final_final_projects\project_{5074}_v{1}\project\library system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Books.h"
+	"Member.h"
+	"Borrow.h"
+
+1514040934 c:\users\administrator\desktop\final_final_projects\project_{5074}_v{1}\project\books.h
+
+1513790454 c:\users\administrator\desktop\final_final_projects\project_{5074}_v{1}\project\member.h
+
+1514034810 c:\users\administrator\desktop\final_final_projects\project_{5074}_v{1}\project\borrow.h
+
+1514062175 source:f:\codeblocks works\final_final_projects\project_{5074}_v{1}\project\library system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Books.h"
+	"Member.h"
+	"Borrow.h"
+
+1514040934 f:\codeblocks works\final_final_projects\project_{5074}_v{1}\project\books.h
+
+1513790454 f:\codeblocks works\final_final_projects\project_{5074}_v{1}\project\member.h
+
+1514034810 f:\codeblocks works\final_final_projects\project_{5074}_v{1}\project\borrow.h
+
+1514192574 source:f:\faculty of egneering\codeblocks works\final_final_projects\project_{5074}_v{1}\project\library system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Books.h"
+	"Member.h"
+	"Borrow.h"
+
+1514040934 f:\faculty of egneering\codeblocks works\final_final_projects\project_{5074}_v{1}\project\books.h
+
+1513790454 f:\faculty of egneering\codeblocks works\final_final_projects\project_{5074}_v{1}\project\member.h
+
+1514034810 f:\faculty of egneering\codeblocks works\final_final_projects\project_{5074}_v{1}\project\borrow.h
+
+1514192574 source:f:\codeblocks\final_final_projects\project_{5074}_v{1}\project\library system.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Books.h"
+	"Member.h"
+	"Borrow.h"
+
+1514040934 f:\codeblocks\final_final_projects\project_{5074}_v{1}\project\books.h
+
+1513790454 f:\codeblocks\final_final_projects\project_{5074}_v{1}\project\member.h
+
+1514034810 f:\codeblocks\final_final_projects\project_{5074}_v{1}\project\borrow.h
+
